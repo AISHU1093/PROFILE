@@ -22,3 +22,7 @@ h3
 {
 color: #E6739F;
 }
+img
+{
+  shape-outside: circle();
+}
